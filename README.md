@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 72crm-java
 
 F3 Java
@@ -111,3 +112,7 @@ PHP >= 5.6.0 （暂不支持PHP7及以上版本）
 
 
 >>>>>>> upstream/java-master
+=======
+# 72crm-vue
+悟空前端代码拆分
+>>>>>>> dcf94726cb05c9153e93e19afd265d0037681a96
